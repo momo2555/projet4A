@@ -1,0 +1,3 @@
+robot.cpp:10:1:robot::robot()	16	static
+robot.cpp:15:1:robot::~robot()	16	static
+robot.cpp:15:1:virtual robot::~robot()	16	static
